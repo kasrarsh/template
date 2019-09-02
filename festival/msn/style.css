@@ -10,7 +10,33 @@
     height: 100px;
 
 }
-.card.info{
+.card-img-overlay{
     position: absolute;
-    top: 100px;
+    top: 60%;
+    font-size: 1rem;
+}
+ body{
+    background-color: #f4f4f2;
+}
+.no-gutters{
+    color: black;
+    font-size: 1.3rem;
+
+}
+.nav{
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+    border-bottom-width: 1px;
+}
+.nav-link{
+    color:black;
+    padding-right: 3rem;
+}
+.nav-link:hover{
+    color: white;
+    background-color:blue;
+}
+.nav2 li{
+    display: inline;
+    padding-right: 1rem;
 }
