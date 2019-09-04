@@ -10,7 +10,7 @@
     <!-- Bootstrap CSS -->
 
     <!--    <link rel="stylesheet" href="css/bootstrap.min.css">-->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../style.css">
     <!--    <link rel="stylesheet" href="js/bootstrap.min.js">-->
     <!--    <script src="js/bootstrap.min.js"></script>-->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
@@ -203,7 +203,7 @@
                         <!-- The slideshow -->
                         <div class="carousel-inner max-height-3">
                             <div class="carousel-item active max-height-3">
-                                <img src="../../Screenshot%20from%202019-08-06%2020-17-57.png">
+                                <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png">
                                 <div class="carousel-caption">
                                     <h3>title</h3>
                                     <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
@@ -211,7 +211,7 @@
                                 </div>
                             </div>
                             <div class="carousel-item max-height-3">
-                                <img src="../../Screenshot%20from%202019-08-06%2020-17-57.png">
+                                <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png">
                                 <div class="carousel-caption">
                                     <h3>title</h3>
                                     <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
@@ -219,7 +219,7 @@
                                 </div>
                             </div>
                             <div class="carousel-item max-height-3">
-                                <img src="../../Screenshot%20from%202019-08-06%2020-17-57.png">
+                                <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png">
                                 <div class="carousel-caption">
                                     <h3>title</h3>
                                     <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
@@ -417,8 +417,40 @@
                     </ul>
                 </div>
 
+                <div class="d-block col-12 col-md-6 col-lg-3 ">
+                    <div class="card">
+                        <img class="card-img" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGthNW.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=624&y=436" >
+                        <div class="card-body">
+                            <p class="card-title">How to control your hunger hormones</p>
+                            <p class="card-text">
+                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AA9YFNL.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                <small class="text-muted">Eat This,Not That</small>
+                            </p>
+                    </div>
+                </div>
+                </div>
+                <div class="d-block col-12 col-md-6 col-lg-3 ">
+                    <div class="row">
+                        <div class="col-12">
 
+                        </div>
+                    </div>
+                </div>
+                <div class="d-none d-lg-block col-12 col-lg-3 ">
 
+                </div>
+                <div class="d-none d-lg-block col-12 col-lg-3 ">
+                    <div class="card">
+                        <img class="card-img" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGthNW.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=624&y=436" >
+                        <div class="card-body">
+                            <p class="card-title">How to control your hunger hormones</p>
+                            <p class="card-text">
+                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AA9YFNL.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                <small class="text-muted">Eat This,Not That</small>
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
