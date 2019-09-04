@@ -162,24 +162,24 @@
                 </div>
                 <div class="col-12 ">
                     <div class="row nav2 mt-3 text-center">
-                        <div class="col-md-2 border-right" style="color: darkolivegreen">
+                        <div class="col-4 col-sm-2 border-right" style="color: darkolivegreen">
                             <a class="text-uppercase" style="color:#2eb82e" href="#">
                                 trending today
                             </a>
                         </div>
-                        <div class="col-md-2 border-right">
+                        <div class="col-4 col-sm-2 border-right">
                             <i class="fas fa-moon fa-flip-horizontal"></i>
                             <a class="text-uppercase" style="color: #a6a6a6;" href="#">
                                 trending today
                             </a>
                             <i class="fas fa-pen"></i>
                         </div>
-                        <div class="col-md-2 border-right">
+                        <div class="col-4 col-sm-2 border-right">
                             <a class="text-uppercase" style="color: #1a75ff;" href="#">
                                 trending today
                             </a>
                         </div>
-                        <div class="cil-md-6">
+                        <div class="col-12 col-sm-6 py-2 py-sm-0">
                             <ul class="text-uppercase">
                                 <li><a href="#" style="color: #666666;">africa</a></li>
                                 <li><a href="#" style="color: #666666;">africa</a></li>
@@ -190,7 +190,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-6  col-sm-12 py-3  d-lg-block d-xs-block">
+                <div class="d-block col-lg-6 col-md-9 col-sm-12 py-3">
                     <div id="demo" class="carousel slide" data-ride="carousel">
 
                         <!-- Indicators -->
@@ -201,8 +201,8 @@
                         </ul>
 
                         <!-- The slideshow -->
-                        <div class="carousel-inner">
-                            <div class="carousel-item active">
+                        <div class="carousel-inner max-height-3">
+                            <div class="carousel-item active max-height-3">
                                 <img src="../../Screenshot%20from%202019-08-06%2020-17-57.png">
                                 <div class="carousel-caption">
                                     <h3>title</h3>
@@ -210,15 +210,15 @@
                                     photo
                                 </div>
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item max-height-3">
                                 <img src="../../Screenshot%20from%202019-08-06%2020-17-57.png">
                                 <div class="carousel-caption">
                                     <h3>title</h3>
                                     <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                    photo
+                                    <span> photo</span>
                                 </div>
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item max-height-3">
                                 <img src="../../Screenshot%20from%202019-08-06%2020-17-57.png">
                                 <div class="carousel-caption">
                                     <h3>title</h3>
@@ -238,7 +238,9 @@
 
                     </div>
                 </div>
-                <div class="col-lg-3  col-sm-6 py-3  d-lg-block d-xs-block">
+
+<!--                start same data1-->
+                <div class="d-none d-sm-block col-lg-3 col-md-3 col-sm-6 py-3" style="max-height: 322px">
                     <a href="#">
                         <!--                @todo ye moshkel ke has vaghty title bishtar az ye khat mishe az card mizane birun-->
                         <div class="card text-white">
@@ -253,7 +255,31 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-3  col-sm-6 py-3  d-lg-block d-xs-block">
+                <div class="d-block d-sm-none col-12 py-3">
+                    <a href="#">
+                        <div class="card p-2">
+                            <div class="row no-gutters ">
+                                <div class="col-4 pb-0">
+                                    <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                         class="card-img" alt="...">
+                                </div>
+                                <div class="col-8 pb-0">
+                                    <div class="card-body p-0 pl-1">
+                                        <p class="card-title">Serena:</p>
+                                        <p class="card-text pt-3">
+                                            <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                            <small class="text-muted">photo</small>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+<!--                end same data1-->
+<!--                start same data2-->
+                <div class="d-none d-sm-block d-md-none d-lg-block col-lg-3  col-sm-6 py-3">
                     <a href="#">
                         <!--                @todo ye moshkel ke has vaghty title bishtar az ye khat mishe az card mizane birun-->
                         <div class="card text-white">
@@ -268,7 +294,30 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-3  col-sm-6 py-3  d-lg-block d-xs-block">
+                <div class="d-block d-sm-none d-md-block d-lg-none col-12  col-md-3 py-3">
+                    <a href="#">
+                        <div class="card p-2">
+                            <div class="row no-gutters ">
+                                <div class="col-4 pb-0">
+                                    <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                         class="card-img" alt="...">
+                                </div>
+                                <div class="col-8 pb-0">
+                                    <div class="card-body p-0 pl-1">
+                                        <p class="card-title">Serena: </p>
+                                        <p class="card-text pt-3">
+                                            <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                            <small class="text-muted">photo</small>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+<!--                end same data2-->
+                <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">
                     <a href="#">
                         <div class="card p-2">
                             <div class="row no-gutters ">
@@ -290,7 +339,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-3  col-sm-6 py-3  d-lg-block d-xs-block">
+                <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">
                     <a href="#">
                         <div class="card p-2">
                             <div class="row no-gutters ">
@@ -312,7 +361,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-3  col-sm-6 py-3  d-lg-block d-xs-block">
+                <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">
                     <a href="#">
                         <div class="card p-2">
                             <div class="row no-gutters ">
@@ -334,7 +383,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-3  col-sm-6 py-3  d-lg-block d-xs-block">
+                <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">
                     <a href="#">
                         <div class="card p-2">
                             <div class="row no-gutters ">
@@ -357,7 +406,16 @@
                     </a>
                 </div>
 
-                <div class="col-lg-"
+                <div class="col-12 category">
+                    <ul>
+                        <li class=""><h5 class="d-inline" "><a href="#">life <i class="fas fa-angle-right"></i></a> </h5></li>
+                        <li class="text-uppercase"><a href="#">entertainment</a></li>
+                        <li class="text-uppercase"><a href="#">celebs</a></li>
+                        <li class="text-uppercase"><a href="#">style</a></li>
+                        <li class="text-uppercase"><a href="#">health</a></li>
+                        <li class="text-uppercase"><a href="#">relationships</a></li>
+                    </ul>
+                </div>
 
 
 
