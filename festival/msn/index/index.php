@@ -29,6 +29,7 @@
     <title>msn</title>
 </head>
 <body>
+<div class="container-fluid">
 <div class="row">
     <div class="col-md-10 offset-md-1 bg-gray">
         <div class="container-fluid">
@@ -247,7 +248,7 @@
                             <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
                                  class="card-img" alt="...">
                             <div class="card-img-overlay">
-                                <h5>Serena: </h5>
+                                <h5>Serena:Serena:Serena:Serena:Serena:Serena:Serena:Serena: </h5>
                                 <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
                                 <small>photo</small>
 
