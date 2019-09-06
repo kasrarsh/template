@@ -34,7 +34,7 @@
     <div class="row">
         <div class="col-2 py-4">
             <div class="card border-light">
-                <img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAGL8Wc.img?h=76&w=138&m=6&q=60&u=t&o=t&l=f&x=860&y=709"
+                <img src="../../Screenshot%20from%202019-08-08%2021-56-46.png"
                      class="card-img">
                 <div class="card-body">
                     <small class="card-title text-muted">Bahamas rescuers face uphill task</small>

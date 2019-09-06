@@ -1,3 +1,9 @@
+<!--@todo moshkele keshide shodane ax ha vaghty scroll mikoniii-->
+<!--@todo birun zadan text az overley-->
+<!--@todo naumadane kart ha zire ham va jaye khalii dashan-->
+<!--@todo to qesmate dovome khabar ha nemishe 6 ta avord va az had mizane biiroon-->
+
+
 <?php
 ?>
 <!doctype html>
@@ -30,432 +36,445 @@
 </head>
 <body>
 <div class="container-fluid">
-<div class="row">
-    <div class="col-md-10 offset-md-1 bg-gray">
-        <div class="container-fluid">
+    <div class="row">
+        <div class="col-md-10 offset-md-1 bg-gray">
+            <div class="container-fluid">
 
-            <div class="row py-1 my-2">
+                <div class="row py-1 my-2">
 
-                <div class="col-12">
-                    <!--                @todo bayad mesle khodesh beshe ke kar kon rush hatman-->
-                    <!--                    <div id="demo" class="carousel slide" data-ride="carousel">-->
-                    <!--                        <div class="carousel-inner">-->
-                    <!--                            <div class="carousel-item active">-->
-                    <!--                                <ul class="nav">-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">instagram</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">telegram</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold " href="#">-->
-                    <!--                                            <i class="fab fa-facebook-square"></i> facebook-->
-                    <!--                                        </a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">twitter</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">msn</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold " href="#">whatsapp</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">msn</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">bbc</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold " href="#">-->
-                    <!--                                           microsoft store-->
-                    <!--                                        </a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">OneDrive</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">office</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">skype</a>-->
-                    <!--                                    </li>-->
-                    <!--                                </ul>-->
-                    <!--                            </div>-->
-                    <!--                            <div class="carousel-item">-->
-                    <!--                                <ul class="nav">-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">skype</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">skype</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold " href="#">-->
-                    <!--                                            <i class="fab fa-facebook-square"></i> skype-->
-                    <!--                                        </a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">skype</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">msn</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold " href="#">whatsapp</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">msn</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">bbc</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold " href="#">-->
-                    <!--                                            microsoft store-->
-                    <!--                                        </a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">OneDrive</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">office</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">skype</a>-->
-                    <!--                                    </li>-->
-                    <!--                                </ul>-->
-                    <!--                            </div>-->
-                    <!--                            <div class="carousel-item">-->
-                    <!--                                <ul class="nav">-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">Facebook</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold" href="#">Facebook</a>-->
-                    <!--                                    </li>-->
-                    <!--                                    <li class="nav-item">-->
-                    <!--                                        <a class="nav-link font-weight-bold " href="#">-->
-                    <!--                                            <i class="fab fa-facebook-square"></i> facebook-->
-                    <!--                                        </a>-->
-                    <!--                                    </li>-->
-                    <!--                                </ul>-->
-                    <!--                            </div>-->
-                    <!--                        </div>-->
-                    <!--                    </div>-->
-                </div>
-                <div class="col-12 ">
-                    <ul class="nav">
-                        <li class="nav-item">
-                            <a class="nav-link font-weight-bold" href="#">Facebook</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link font-weight-bold" href="#">Facebook</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link font-weight-bold " href="#">
-                                <i class="fab fa-facebook-square"></i> facebook
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-12 ">
-                    <div class="row nav2 mt-3 text-center">
-                        <div class="col-4 col-sm-2 border-right" style="color: darkolivegreen">
-                            <a class="text-uppercase" style="color:#2eb82e" href="#">
-                                trending today
-                            </a>
-                        </div>
-                        <div class="col-4 col-sm-2 border-right">
-                            <i class="fas fa-moon fa-flip-horizontal"></i>
-                            <a class="text-uppercase" style="color: #a6a6a6;" href="#">
-                                trending today
-                            </a>
-                            <i class="fas fa-pen"></i>
-                        </div>
-                        <div class="col-4 col-sm-2 border-right">
-                            <a class="text-uppercase" style="color: #1a75ff;" href="#">
-                                trending today
-                            </a>
-                        </div>
-                        <div class="col-12 col-sm-6 py-2 py-sm-0">
-                            <ul class="text-uppercase">
-                                <li><a href="#" style="color: #666666;">africa</a></li>
-                                <li><a href="#" style="color: #666666;">africa</a></li>
-                                <li><a href="#" style="color: #666666;">africa</a></li>
-                                <li><a href="#" style="color: #666666;">africa</a></li>
-                            </ul>
-                        </div>
+                    <div class="col-12">
+                        <!--                @todo bayad mesle khodesh beshe ke kar kon rush hatman-->
+                        <!--                    <div id="demo" class="carousel slide" data-ride="carousel">-->
+                        <!--                        <div class="carousel-inner">-->
+                        <!--                            <div class="carousel-item active">-->
+                        <!--                                <ul class="nav">-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">instagram</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">telegram</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold " href="#">-->
+                        <!--                                            <i class="fab fa-facebook-square"></i> facebook-->
+                        <!--                                        </a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">twitter</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">msn</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold " href="#">whatsapp</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">msn</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">bbc</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold " href="#">-->
+                        <!--                                           microsoft store-->
+                        <!--                                        </a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">OneDrive</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">office</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">skype</a>-->
+                        <!--                                    </li>-->
+                        <!--                                </ul>-->
+                        <!--                            </div>-->
+                        <!--                            <div class="carousel-item">-->
+                        <!--                                <ul class="nav">-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">skype</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">skype</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold " href="#">-->
+                        <!--                                            <i class="fab fa-facebook-square"></i> skype-->
+                        <!--                                        </a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">skype</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">msn</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold " href="#">whatsapp</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">msn</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">bbc</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold " href="#">-->
+                        <!--                                            microsoft store-->
+                        <!--                                        </a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">OneDrive</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">office</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">skype</a>-->
+                        <!--                                    </li>-->
+                        <!--                                </ul>-->
+                        <!--                            </div>-->
+                        <!--                            <div class="carousel-item">-->
+                        <!--                                <ul class="nav">-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">Facebook</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold" href="#">Facebook</a>-->
+                        <!--                                    </li>-->
+                        <!--                                    <li class="nav-item">-->
+                        <!--                                        <a class="nav-link font-weight-bold " href="#">-->
+                        <!--                                            <i class="fab fa-facebook-square"></i> facebook-->
+                        <!--                                        </a>-->
+                        <!--                                    </li>-->
+                        <!--                                </ul>-->
+                        <!--                            </div>-->
+                        <!--                        </div>-->
+                        <!--                    </div>-->
                     </div>
-                </div>
-
-                <div class="d-block col-lg-6 col-md-9 col-sm-12 py-3">
-                    <div id="demo" class="carousel slide" data-ride="carousel">
-
-                        <!-- Indicators -->
-                        <ul class="carousel-indicators">
-                            <li data-target="#demo" data-slide-to="0" class="active"></li>
-                            <li data-target="#demo" data-slide-to="1"></li>
-                            <li data-target="#demo" data-slide-to="2"></li>
+                    <div class="col-12 ">
+                        <ul class="nav">
+                            <li class="nav-item">
+                                <a class="nav-link font-weight-bold" href="#">Facebook</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link font-weight-bold" href="#">Facebook</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link font-weight-bold " href="#">
+                                    <i class="fab fa-facebook-square"></i> facebook
+                                </a>
+                            </li>
                         </ul>
-
-                        <!-- The slideshow -->
-                        <div class="carousel-inner max-height-3">
-                            <div class="carousel-item active max-height-3">
-                                <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png">
-                                <div class="carousel-caption">
-                                    <h3>title</h3>
-                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                    photo
-                                </div>
+                    </div>
+                    <div class="col-12 ">
+                        <div class="row nav2 mt-3 text-center">
+                            <div class="col-4 col-sm-2 border-right" style="color: darkolivegreen">
+                                <a class="text-uppercase" style="color:#2eb82e" href="#">
+                                    trending today
+                                </a>
                             </div>
-                            <div class="carousel-item max-height-3">
-                                <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png">
-                                <div class="carousel-caption">
-                                    <h3>title</h3>
-                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                    <span> photo</span>
-                                </div>
+                            <div class="col-4 col-sm-2 border-right">
+                                <i class="fas fa-moon fa-flip-horizontal"></i>
+                                <a class="text-uppercase" style="color: #a6a6a6;" href="#">
+                                    trending today
+                                </a>
+                                <i class="fas fa-pen"></i>
                             </div>
-                            <div class="carousel-item max-height-3">
-                                <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png">
-                                <div class="carousel-caption">
-                                    <h3>title</h3>
-                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                    photo
-                                </div>
+                            <div class="col-4 col-sm-2 border-right">
+                                <a class="text-uppercase" style="color: #1a75ff;" href="#">
+                                    trending today
+                                </a>
+                            </div>
+                            <div class="col-12 col-sm-6 py-2 py-sm-0">
+                                <ul class="text-uppercase">
+                                    <li><a href="#" style="color: #666666;">africa</a></li>
+                                    <li><a href="#" style="color: #666666;">africa</a></li>
+                                    <li><a href="#" style="color: #666666;">africa</a></li>
+                                    <li><a href="#" style="color: #666666;">africa</a></li>
+                                </ul>
                             </div>
                         </div>
+                    </div>
 
-                        <!-- Left and right controls -->
-                        <a class="carousel-control-prev" href="#demo" data-slide="prev">
-                            <span class="carousel-control-prev-icon"></span>
+                    <div class="d-block col-lg-6 col-md-9 col-sm-12 py-3">
+                        <div id="demo" class="carousel slide" data-ride="carousel">
+
+                            <!-- Indicators -->
+                            <ul class="carousel-indicators">
+                                <li data-target="#demo" data-slide-to="0" class="active"></li>
+                                <li data-target="#demo" data-slide-to="1"></li>
+                                <li data-target="#demo" data-slide-to="2"></li>
+                            </ul>
+
+                            <!-- The slideshow -->
+                            <div class="carousel-inner max-height-3">
+                                <div class="carousel-item active max-height-3">
+                                    <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png">
+                                    <div class="carousel-caption">
+                                        <h3>title</h3>
+                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                        photo
+                                    </div>
+                                </div>
+                                <div class="carousel-item max-height-3">
+                                    <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png">
+                                    <div class="carousel-caption">
+                                        <h3>title</h3>
+                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                        <span> photo</span>
+                                    </div>
+                                </div>
+                                <div class="carousel-item max-height-3">
+                                    <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png">
+                                    <div class="carousel-caption">
+                                        <h3>title</h3>
+                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                        photo
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Left and right controls -->
+                            <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                                <span class="carousel-control-prev-icon"></span>
+                            </a>
+                            <a class="carousel-control-next" href="#demo" data-slide="next">
+                                <span class="carousel-control-next-icon"></span>
+                            </a>
+
+                        </div>
+                    </div>
+
+                    <!--                start same data1-->
+                    <div class="d-none d-sm-block col-lg-3 col-md-3 col-sm-6 py-3">
+                        <a href="#">
+                            <!--                @todo ye moshkel ke has vaghty title bishtar az ye khat mishe az card mizane birun-->
+                            <div class="card text-white">
+                                <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png"
+                                     class="card-img" alt="...">
+                                <div class="card-img-overlay">
+                                    <h5>Serena:Serena:Serena:Serena:Serena:Serena:Serena:Serena: </h5>
+                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                    <small>photo</small>
+
+                                </div>
+                            </div>
                         </a>
-                        <a class="carousel-control-next" href="#demo" data-slide="next">
-                            <span class="carousel-control-next-icon"></span>
+                    </div>
+                    <div class="d-block d-sm-none col-12 py-3">
+                        <a href="#">
+                            <div class="card p-2">
+                                <div class="row no-gutters ">
+                                    <div class="col-4 pb-0">
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                             class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-8 pb-0">
+                                        <div class="card-body p-0 pl-1">
+                                            <p class="card-title">Serena:</p>
+                                            <p class="card-text pt-3">
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                <small class="text-muted">photo</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </a>
-
                     </div>
-                </div>
+                    <!--                end same data1-->
+                    <!--                start same data2-->
+                    <div class="d-none d-sm-block d-md-none d-lg-block col-lg-3  col-sm-6 py-3">
+                        <a href="#">
+                            <!--                @todo ye moshkel ke has vaghty title bishtar az ye khat mishe az card mizane birun-->
+                            <div class="card text-white">
+                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                     class="card-img" alt="...">
+                                <div class="card-img-overlay">
+                                    <h5>Serena: </h5>
+                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                    <small>photo</small>
 
-<!--                start same data1-->
-                <div class="d-none d-sm-block col-lg-3 col-md-3 col-sm-6 py-3" style="max-height: 322px">
-                    <a href="#">
-                        <!--                @todo ye moshkel ke has vaghty title bishtar az ye khat mishe az card mizane birun-->
-                        <div class="card text-white">
-                            <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
-                                 class="card-img" alt="...">
-                            <div class="card-img-overlay">
-                                <h5>Serena:Serena:Serena:Serena:Serena:Serena:Serena:Serena: </h5>
-                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                <small>photo</small>
-
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="d-block d-sm-none col-12 py-3">
-                    <a href="#">
-                        <div class="card p-2">
-                            <div class="row no-gutters ">
-                                <div class="col-4 pb-0">
-                                    <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
-                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
-                                         class="card-img" alt="...">
-                                </div>
-                                <div class="col-8 pb-0">
-                                    <div class="card-body p-0 pl-1">
-                                        <p class="card-title">Serena:</p>
-                                        <p class="card-text pt-3">
-                                            <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                            <small class="text-muted">photo</small>
-                                        </p>
-                                    </div>
                                 </div>
                             </div>
-                        </div>
-                    </a>
-                </div>
-<!--                end same data1-->
-<!--                start same data2-->
-                <div class="d-none d-sm-block d-md-none d-lg-block col-lg-3  col-sm-6 py-3">
-                    <a href="#">
-                        <!--                @todo ye moshkel ke has vaghty title bishtar az ye khat mishe az card mizane birun-->
-                        <div class="card text-white">
-                            <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
-                                 class="card-img" alt="...">
-                            <div class="card-img-overlay">
-                                <h5>Serena: </h5>
-                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                <small>photo</small>
-
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="d-block d-sm-none d-md-block d-lg-none col-12  col-md-3 py-3">
-                    <a href="#">
-                        <div class="card p-2">
-                            <div class="row no-gutters ">
-                                <div class="col-4 pb-0">
-                                    <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
-                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
-                                         class="card-img" alt="...">
-                                </div>
-                                <div class="col-8 pb-0">
-                                    <div class="card-body p-0 pl-1">
-                                        <p class="card-title">Serena: </p>
-                                        <p class="card-text pt-3">
-                                            <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                            <small class="text-muted">photo</small>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-<!--                end same data2-->
-                <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">
-                    <a href="#">
-                        <div class="card p-2">
-                            <div class="row no-gutters ">
-                                <div class="col-4 pb-0">
-                                    <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
-                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDlyS.img?h=75&w=100&m=6&q=60&u=t&o=t&l=f&f=jpg"
-                                         class="card-img" alt="...">
-                                </div>
-                                <div class="col-8 pb-0">
-                                    <div class="card-body p-0 pl-1">
-                                        <p class="card-title">Trainee pilot lands plane after teacher blacks out</p>
-                                        <p class="card-text pt-3">
-                                            <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                            <small class="text-muted">photo</small>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">
-                    <a href="#">
-                        <div class="card p-2">
-                            <div class="row no-gutters ">
-                                <div class="col-4 pb-0">
-                                    <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
-                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDlyS.img?h=75&w=100&m=6&q=60&u=t&o=t&l=f&f=jpg"
-                                         class="card-img" alt="...">
-                                </div>
-                                <div class="col-8 pb-0">
-                                    <div class="card-body p-0 pl-1">
-                                        <p class="card-title">Trainee pilot lands plane after teacher blacks out</p>
-                                        <p class="card-text pt-3">
-                                            <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                            <small class="text-muted">photo</small>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">
-                    <a href="#">
-                        <div class="card p-2">
-                            <div class="row no-gutters ">
-                                <div class="col-4 pb-0">
-                                    <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
-                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDlyS.img?h=75&w=100&m=6&q=60&u=t&o=t&l=f&f=jpg"
-                                         class="card-img" alt="...">
-                                </div>
-                                <div class="col-8 pb-0">
-                                    <div class="card-body p-0 pl-1">
-                                        <p class="card-title">Trainee pilot lands plane after teacher blacks out</p>
-                                        <p class="card-text pt-3">
-                                            <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                            <small class="text-muted">photo</small>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">
-                    <a href="#">
-                        <div class="card p-2">
-                            <div class="row no-gutters ">
-                                <div class="col-4 pb-0">
-                                    <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
-                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDlyS.img?h=75&w=100&m=6&q=60&u=t&o=t&l=f&f=jpg"
-                                         class="card-img" alt="...">
-                                </div>
-                                <div class="col-8 pb-0">
-                                    <div class="card-body p-0 pl-1">
-                                        <p class="card-title">Trainee pilot lands plane after teacher blacks out</p>
-                                        <p class="card-text pt-3">
-                                            <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                            <small class="text-muted">photo</small>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <div class="col-12 category">
-                    <ul>
-                        <li class=""><h5 class="d-inline" "><a href="#">life <i class="fas fa-angle-right"></i></a> </h5></li>
-                        <li class="text-uppercase"><a href="#">entertainment</a></li>
-                        <li class="text-uppercase"><a href="#">celebs</a></li>
-                        <li class="text-uppercase"><a href="#">style</a></li>
-                        <li class="text-uppercase"><a href="#">health</a></li>
-                        <li class="text-uppercase"><a href="#">relationships</a></li>
-                    </ul>
-                </div>
-
-                <div class="d-block col-12 col-md-6 col-lg-3 ">
-                    <div class="card">
-                        <img class="card-img" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGthNW.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=624&y=436" >
-                        <div class="card-body">
-                            <p class="card-title">How to control your hunger hormones</p>
-                            <p class="card-text">
-                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AA9YFNL.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                <small class="text-muted">Eat This,Not That</small>
-                            </p>
+                        </a>
                     </div>
-                </div>
-                </div>
-                <div class="d-block col-12 col-md-6 col-lg-3 ">
-                    <div class="row">
-                        <div class="col-12">
+                    <div class="d-block d-sm-none d-md-block d-lg-none col-12  col-md-3 py-3">
+                        <a href="#">
+                            <div class="card p-2">
+                                <div class="row no-gutters ">
+                                    <div class="col-4 pb-0">
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                             class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-8 pb-0">
+                                        <div class="card-body p-0 pl-1">
+                                            <p class="card-title">Serena: </p>
+                                            <p class="card-text pt-3">
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                <small class="text-muted">photo</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <!--                end same data2-->
+                    <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">
+                        <a href="#">
+                            <div class="card p-2">
+                                <div class="row no-gutters ">
+                                    <div class="col-4 pb-0">
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                        <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png"
+                                             class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-8 pb-0">
+                                        <div class="card-body p-0 pl-1">
+                                            <p class="card-title">Trainee pilot lands plane after teacher blacks out</p>
+                                            <p class="card-text pt-3">
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                <small class="text-muted">photo</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">
+                        <a href="#">
+                            <div class="card p-2">
+                                <div class="row no-gutters ">
+                                    <div class="col-4 pb-0">
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDlyS.img?h=75&w=100&m=6&q=60&u=t&o=t&l=f&f=jpg"
+                                             class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-8 pb-0">
+                                        <div class="card-body p-0 pl-1">
+                                            <p class="card-title">Trainee pilot lands plane after teacher blacks out</p>
+                                            <p class="card-text pt-3">
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                <small class="text-muted">photo</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">
+                        <a href="#">
+                            <div class="card p-2">
+                                <div class="row no-gutters ">
+                                    <div class="col-4 pb-0">
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDlyS.img?h=75&w=100&m=6&q=60&u=t&o=t&l=f&f=jpg"
+                                             class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-8 pb-0">
+                                        <div class="card-body p-0 pl-1">
+                                            <p class="card-title">Trainee pilot lands plane after teacher blacks out</p>
+                                            <p class="card-text pt-3">
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                <small class="text-muted">photo</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">
+                        <a href="#">
+                            <div class="card p-2">
+                                <div class="row no-gutters ">
+                                    <div class="col-4 pb-0">
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDlyS.img?h=75&w=100&m=6&q=60&u=t&o=t&l=f&f=jpg"
+                                             class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-8 pb-0">
+                                        <div class="card-body p-0 pl-1">
+                                            <p class="card-title">Trainee pilot lands plane after teacher blacks out</p>
+                                            <p class="card-text pt-3">
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                <small class="text-muted">photo</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
 
+                    <div class="col-12 category">
+                        <ul>
+                            <li class=""><h5 class="d-inline" "><a href="#">life <i
+                                            class="fas fa-angle-right"></i></a> </h5></li>
+                            <li class="text-uppercase"><a href="#">entertainment</a></li>
+                            <li class="text-uppercase"><a href="#">celebs</a></li>
+                            <li class="text-uppercase"><a href="#">style</a></li>
+                            <li class="text-uppercase"><a href="#">health</a></li>
+                            <li class="text-uppercase"><a href="#">relationships</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="d-block col-12 col-md-6 col-lg-3 ">
+                        <div class="card">
+                            <img class="card-img"
+                                 src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGthNW.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=624&y=436">
+                            <div class="card-body">
+                                <p class="card-title">How to control your hunger hormones</p>
+                                <p class="card-text">
+                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AA9YFNL.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                    <small class="text-muted">Eat This,Not That</small>
+                                </p>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="d-none d-lg-block col-12 col-lg-3 ">
+                    <div class="d-block col-12 col-md-6 col-lg-3 ">
+                        <div class="row">
+                            <div class="col-12">
 
-                </div>
-                <div class="d-none d-lg-block col-12 col-lg-3 ">
-                    <div class="card">
-                        <img class="card-img" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGthNW.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=624&y=436" >
-                        <div class="card-body">
-                            <p class="card-title">How to control your hunger hormones</p>
-                            <p class="card-text">
-                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AA9YFNL.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                <small class="text-muted">Eat This,Not That</small>
-                            </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="d-none d-lg-block col-12 col-lg-3 ">
+
+                    </div>
+                    <div class="d-none d-lg-block col-12 col-lg-3 ">
+                        <div class="card">
+                            <img class="card-img"
+                                 src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGthNW.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=624&y=436">
+                            <div class="card-body">
+                                <p class="card-title">How to control your hunger hormones</p>
+                                <p class="card-text">
+                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AA9YFNL.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                    <small class="text-muted">Eat This,Not That</small>
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="news-format-2" style="height: 100px">
+              <img class="w-25 mh-100" src="../../../3.JPG">
+               <div class="mw-100 mh-100 d-inline">
+
+               </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 
