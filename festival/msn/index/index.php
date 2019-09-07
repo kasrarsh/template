@@ -196,105 +196,285 @@
                             </div>
                         </div>
                     </div>
-
-                    <div class="d-block col-lg-6 col-md-9 col-sm-12 py-3">
-                        <div id="demo" class="carousel slide" data-ride="carousel">
-
+<!--                                            **version 1**-->
+<!--                    <div class="d-none col-lg-6 col-md-9 col-sm-12 py-3">-->
+<!--                        <div id="demo" class="carousel slide" data-ride="carousel">-->
+<!---->
                             <!-- Indicators -->
-                            <ul class="carousel-indicators">
-                                <li data-target="#demo" data-slide-to="0" class="active"></li>
-                                <li data-target="#demo" data-slide-to="1"></li>
-                                <li data-target="#demo" data-slide-to="2"></li>
-                            </ul>
-
+<!--                            <ul class="carousel-indicators">-->
+<!--                                <li data-target="#demo" data-slide-to="0" class="active"></li>-->
+<!--                                <li data-target="#demo" data-slide-to="1"></li>-->
+<!--                                <li data-target="#demo" data-slide-to="2"></li>-->
+<!--                            </ul>-->
+<!---->
                             <!-- The slideshow -->
-                            <div class="carousel-inner max-height-3">
-                                <div class="carousel-item active max-height-3">
-                                    <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png">
-                                    <div class="carousel-caption">
-                                        <h3>title</h3>
-                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                        photo
-                                    </div>
-                                </div>
-                                <div class="carousel-item max-height-3">
-                                    <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png">
-                                    <div class="carousel-caption">
-                                        <h3>title</h3>
-                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                        <span> photo</span>
-                                    </div>
-                                </div>
-                                <div class="carousel-item max-height-3">
-                                    <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png">
-                                    <div class="carousel-caption">
-                                        <h3>title</h3>
-                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                        photo
-                                    </div>
-                                </div>
-                            </div>
-
+<!--                            <div class="carousel-inner max-height-3">-->
+<!--                                <div class="carousel-item active max-height-3">-->
+<!--                                    <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png">-->
+<!--                                    <div class="carousel-caption">-->
+<!--                                        <h3>title</h3>-->
+<!--                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">-->
+<!--                                        photo-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                                <div class="carousel-item max-height-3">-->
+<!--                                    <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png">-->
+<!--                                    <div class="carousel-caption">-->
+<!--                                        <h3>title</h3>-->
+<!--                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">-->
+<!--                                        <span> photo</span>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                                <div class="carousel-item max-height-3">-->
+<!--                                    <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png">-->
+<!--                                    <div class="carousel-caption">-->
+<!--                                        <h3>title</h3>-->
+<!--                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">-->
+<!--                                        photo-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!---->
                             <!-- Left and right controls -->
-                            <a class="carousel-control-prev" href="#demo" data-slide="prev">
-                                <span class="carousel-control-prev-icon"></span>
-                            </a>
-                            <a class="carousel-control-next" href="#demo" data-slide="next">
-                                <span class="carousel-control-next-icon"></span>
-                            </a>
-
-                        </div>
-                    </div>
-
-
+<!--                            <a class="carousel-control-prev" href="#demo" data-slide="prev">-->
+<!--                                <span class="carousel-control-prev-icon"></span>-->
+<!--                            </a>-->
+<!--                            <a class="carousel-control-next" href="#demo" data-slide="next">-->
+<!--                                <span class="carousel-control-next-icon"></span>-->
+<!--                            </a>-->
+<!---->
+<!--                        </div>-->
+<!--                    </div>-->
                     <!--                start same data1-->
-                    <div class="d-none d-sm-block col-lg-3 col-md-3 col-sm-6 py-3">
-                        <a href="#">
+<!--                    <div class="d-none d-sm-block col-lg-3 col-md-3 col-sm-6 py-3">-->
+<!--                        <a href="#">-->
                             <!--                @todo ye moshkel ke has vaghty title bishtar az ye khat mishe az card mizane birun-->
-                            <div class="card text-white">
-                                <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png"
-                                     class="card-img mw-100 mh-100" alt="...">
-                                <div class="card-img-overlay">
-                                    <h5>Serena:Serena:Serena:Serena:Serena:Serena:Serena:Serena: </h5>
-                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                    <small>photo</small>
-
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="d-block d-sm-none col-12 py-3">
-                        <a href="#">
-                            <div class="card p-2">
-                                <div class="row no-gutters ">
-                                    <div class="col-4 pb-0">
+<!--                            <div class="card text-white">-->
+<!--                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"-->
+<!--                                     class="card-img mw-100 mh-100" alt="...">-->
+<!--                                <div class="card-img-overlay">-->
+<!--                                    <p>Serena:Serena:Serena:Serena:Serena:Serena:Serena:Serena: </p>-->
+<!--                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">-->
+<!--                                    <small>photo</small>-->
+<!---->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                    <div class="d-block d-sm-none col-12 py-3">-->
+<!--                        <a href="#">-->
+<!--                            <div class="card p-2">-->
+<!--                                <div class="row no-gutters ">-->
+<!--                                    <div class="col-4 pb-0">-->
                                         <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
-                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
-                                             class="card-img" alt="...">
-                                    </div>
-                                    <div class="col-8 pb-0">
-                                        <div class="card-body p-0 pl-1">
-                                            <p class="card-title">Serena:</p>
-                                            <p class="card-text pt-3">
-                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                                <small class="text-muted">photo</small>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
+<!--                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"-->
+<!--                                             class="card-img" alt="...">-->
+<!--                                    </div>-->
+<!--                                    <div class="col-8 pb-0">-->
+<!--                                        <div class="card-body p-0 pl-1">-->
+<!--                                            <p class="card-text">Serena:</p>-->
+<!--                                            <p class="card-text pt-3">-->
+<!--                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">-->
+<!--                                                <small class="text-muted">photo</small>-->
+<!--                                            </p>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
                     <!--                end same data1-->
                     <!--                start same data2-->
-                    <div class="d-none d-sm-block d-md-none d-lg-block col-lg-3  col-sm-6 py-3">
+<!--                    <div class="d-none d-sm-block d-md-none d-lg-block col-lg-3  col-sm-6 py-3">-->
+<!--                        <a href="#">-->
+                            <!--                @todo ye moshkel ke has vaghty title bishtar az ye khat mishe az card mizane birun-->
+<!--                            <div class="card text-white">-->
+<!--                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"-->
+<!--                                     class="card-img" alt="...">-->
+<!--                                <div class="card-img-overlay">-->
+<!--                                    <p>Serena: </p>-->
+<!--                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">-->
+<!--                                    <small>photo</small>-->
+<!---->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                    <div class="d-block d-sm-none d-md-block d-lg-none col-12  col-md-3 py-3">-->
+<!--                        <a href="#">-->
+<!--                            <div class="card p-2">-->
+<!--                                <div class="row no-gutters ">-->
+<!--                                    <div class="col-4 pb-0">-->
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+<!--                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"-->
+<!--                                             class="card-img" alt="...">-->
+<!--                                    </div>-->
+<!--                                    <div class="col-8 pb-0">-->
+<!--                                        <div class="card-body p-0 pl-1">-->
+<!--                                            <p class="card-title">Serena: </p>-->
+<!--                                            <p class="card-text pt-3">-->
+<!--                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">-->
+<!--                                                <small class="text-muted">photo</small>-->
+<!--                                            </p>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+                    <!--                end same data2-->
+
+<!--                    <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3" style="height: 150px">-->
+<!--                        <a href="#">-->
+<!--                            <div class="card p-2 mh-100">-->
+<!--                                <div class="row no-gutters ">-->
+<!--                                    <div class="col-4 pb-0">-->
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+<!--                                        <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png"-->
+<!--                                             class="card-img img-fluid" alt="...">-->
+<!--                                    </div>-->
+<!--                                    <div class="col-8 pb-0">-->
+<!--                                        <div class="card-body p-0 pl-1">-->
+<!--                                            <p class="card-title">Trainee pilot lands plane after teacher blacks out</p>-->
+<!--                                            <p class="card-text pt-3">-->
+<!--                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">-->
+<!--                                                <small class="text-muted">photo</small>-->
+<!--                                            </p>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                    <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">-->
+<!--                        <a href="#">-->
+<!--                            <div class="card p-2">-->
+<!--                                <div class="row no-gutters ">-->
+<!--                                    <div class="col-4 pb-0">-->
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+<!--                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDlyS.img?h=75&w=100&m=6&q=60&u=t&o=t&l=f&f=jpg"-->
+<!--                                             class="card-img" alt="...">-->
+<!--                                    </div>-->
+<!--                                    <div class="col-8 pb-0">-->
+<!--                                        <div class="card-body p-0 pl-1">-->
+<!--                                            <p class="card-title">Trainee pilot lands plane after teacher blacks out</p>-->
+<!--                                            <p class="card-text pt-3">-->
+<!--                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">-->
+<!--                                                <small class="text-muted">photo</small>-->
+<!--                                            </p>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                    <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">-->
+<!--                        <a href="#">-->
+<!--                            <div class="card p-2">-->
+<!--                                <div class="row no-gutters ">-->
+<!--                                    <div class="col-4 pb-0">-->
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+<!--                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDlyS.img?h=75&w=100&m=6&q=60&u=t&o=t&l=f&f=jpg"-->
+<!--                                             class="card-img" alt="...">-->
+<!--                                    </div>-->
+<!--                                    <div class="col-8 pb-0">-->
+<!--                                        <div class="card-body p-0 pl-1">-->
+<!--                                            <p class="card-title">Trainee pilot lands plane after teacher blacks-->
+<!--                                                out </p>-->
+<!--                                            <p class="card-text pt-3">-->
+<!--                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">-->
+<!--                                                <small class="text-muted">photo</small>-->
+<!--                                            </p>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                    <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">-->
+<!--                        <a href="#">-->
+<!--                            <div class="card p-2">-->
+<!--                                <div class="row no-gutters ">-->
+<!--                                    <div class="col-4 pb-0">-->
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+<!--                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDlyS.img?h=75&w=100&m=6&q=60&u=t&o=t&l=f&f=jpg"-->
+<!--                                             class="card-img" alt="...">-->
+<!--                                    </div>-->
+<!--                                    <div class="col-8 pb-0">-->
+<!--                                        <div class="card-body p-0 pl-1">-->
+<!--                                            <p class="card-title">Trainee pilot lands plane after teacher blacks out</p>-->
+<!--                                            <p class="card-text pt-3">-->
+<!--                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">-->
+<!--                                                <small class="text-muted">photo</small>-->
+<!--                                            </p>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </a>-->
+<!--                    </div>-->
+<!--                    <div class="col-12 category">-->
+<!--                        <ul>-->
+<!--                            <li class=""><h5 class="d-inline" "><a href="#">life <i-->
+<!--                                            class="fas fa-angle-right"></i></a> </h5></li>-->
+<!--                            <li class="text-uppercase"><a href="#">entertainment</a></li>-->
+<!--                            <li class="text-uppercase"><a href="#">celebs</a></li>-->
+<!--                            <li class="text-uppercase"><a href="#">style</a></li>-->
+<!--                            <li class="text-uppercase"><a href="#">health</a></li>-->
+<!--                            <li class="text-uppercase"><a href="#">relationships</a></li>-->
+<!--                        </ul>-->
+<!--                    </div>-->
+<!--                    <div class="d-block col-12 col-md-6 col-lg-3 ">-->
+<!--                        <div class="card">-->
+<!--                            <img class="card-img"-->
+<!--                                 src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGthNW.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=624&y=436">-->
+<!--                            <div class="card-body">-->
+<!--                                <p class="card-title">How to control your hunger hormones</p>-->
+<!--                                <p class="card-text">-->
+<!--                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AA9YFNL.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">-->
+<!--                                    <small class="text-muted">Eat This,Not That</small>-->
+<!--                                </p>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="d-block col-12 col-md-6 col-lg-3 ">-->
+<!--                        <div class="row">-->
+<!--                            <div class="col-12">-->
+<!---->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="d-none d-lg-block col-12 col-lg-3 ">-->
+<!---->
+<!--                    </div>-->
+<!--                    <div class="d-none d-lg-block col-12 col-lg-3 ">-->
+<!--                        <div class="card">-->
+<!--                            <img class="card-img"-->
+<!--                                 src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGthNW.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=624&y=436">-->
+<!--                            <div class="card-body">-->
+<!--                                <p class="card-title">How to control your hunger hormones</p>-->
+<!--                                <p class="card-text">-->
+<!--                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AA9YFNL.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">-->
+<!--                                    <small class="text-muted">Eat This,Not That</small>-->
+<!--                                </p>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+                    <!--                         **version1 end**-->
+
+
+
+
+
+                    <!--                    **version2 start-->
+                    <div class="d-none d-sm-block col-lg-3 col-md-4 col-sm-6 p-2">
                         <a href="#">
                             <!--                @todo ye moshkel ke has vaghty title bishtar az ye khat mishe az card mizane birun-->
                             <div class="card text-white">
                                 <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
-                                     class="card-img" alt="...">
+                                     class="card-img mw-100 mh-100" alt="...">
                                 <div class="card-img-overlay">
-                                    <h5>Serena: </h5>
+                                    <p>Serena:main </p>
                                     <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
                                     <small>photo</small>
 
@@ -302,7 +482,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="d-block d-sm-none d-md-block d-lg-none col-12  col-md-3 py-3">
+                    <div class="d-block d-sm-none col-xs-12 p-2">
                         <a href="#">
                             <div class="card p-2">
                                 <div class="row no-gutters ">
@@ -313,97 +493,7 @@
                                     </div>
                                     <div class="col-8 pb-0">
                                         <div class="card-body p-0 pl-1">
-                                            <p class="card-title">Serena: </p>
-                                            <p class="card-text pt-3">
-                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                                <small class="text-muted">photo</small>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!--                end same data2-->
-                    <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3" style="height: 150px">
-                        <a href="#">
-                            <div class="card p-2 mh-100">
-                                <div class="row no-gutters ">
-                                    <div class="col-4 pb-0">
-                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
-                                        <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png"
-                                             class="card-img img-fluid" alt="...">
-                                    </div>
-                                    <div class="col-8 pb-0">
-                                        <div class="card-body p-0 pl-1">
-                                            <p class="card-title">Trainee pilot lands plane after teacher blacks out</p>
-                                            <p class="card-text pt-3">
-                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                                <small class="text-muted">photo</small>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">
-                        <a href="#">
-                            <div class="card p-2">
-                                <div class="row no-gutters ">
-                                    <div class="col-4 pb-0">
-                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
-                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDlyS.img?h=75&w=100&m=6&q=60&u=t&o=t&l=f&f=jpg"
-                                             class="card-img" alt="...">
-                                    </div>
-                                    <div class="col-8 pb-0">
-                                        <div class="card-body p-0 pl-1">
-                                            <p class="card-title">Trainee pilot lands plane after teacher blacks out</p>
-                                            <p class="card-text pt-3">
-                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                                <small class="text-muted">photo</small>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">
-                        <a href="#">
-                            <div class="card p-2">
-                                <div class="row no-gutters ">
-                                    <div class="col-4 pb-0">
-                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
-                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDlyS.img?h=75&w=100&m=6&q=60&u=t&o=t&l=f&f=jpg"
-                                             class="card-img" alt="...">
-                                    </div>
-                                    <div class="col-8 pb-0">
-                                        <div class="card-body p-0 pl-1">
-                                            <p class="card-title">Trainee pilot lands plane after teacher blacks
-                                                out </p>
-                                            <p class="card-text pt-3">
-                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                                <small class="text-muted">photo</small>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">
-                        <a href="#">
-                            <div class="card p-2">
-                                <div class="row no-gutters ">
-                                    <div class="col-4 pb-0">
-                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
-                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDlyS.img?h=75&w=100&m=6&q=60&u=t&o=t&l=f&f=jpg"
-                                             class="card-img" alt="...">
-                                    </div>
-                                    <div class="col-8 pb-0">
-                                        <div class="card-body p-0 pl-1">
-                                            <p class="card-title">Trainee pilot lands plane after teacher blacks out</p>
+                                            <p class="card-text">Serena:main</p>
                                             <p class="card-text pt-3">
                                                 <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
                                                 <small class="text-muted">photo</small>
@@ -415,6 +505,208 @@
                         </a>
                     </div>
 
+                    <div class="d-none d-sm-block col-lg-3 col-md-4 col-sm-6 p-2">
+                        <a href="#">
+                            <!--                @todo ye moshkel ke has vaghty title bishtar az ye khat mishe az card mizane birun-->
+                            <div class="card text-white">
+                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                     class="card-img mw-100 mh-100" alt="...">
+                                <div class="card-img-overlay">
+                                    <p>Serena:main </p>
+                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                    <small>photo</small>
+
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="d-block d-sm-none col-xs-12 p-2">
+                        <a href="#">
+                            <div class="card p-2">
+                                <div class="row no-gutters ">
+                                    <div class="col-4 pb-0">
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                             class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-8 pb-0">
+                                        <div class="card-body p-0 pl-1">
+                                            <p class="card-text">Serena:main</p>
+                                            <p class="card-text pt-3">
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                <small class="text-muted">photo</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="d-none d-md-block col-lg-3 col-md-4 p-2">
+                        <a href="#">
+                            <!--                @todo ye moshkel ke has vaghty title bishtar az ye khat mishe az card mizane birun-->
+                            <div class="card text-white">
+                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                     class="card-img mw-100 mh-100" alt="...">
+                                <div class="card-img-overlay">
+                                    <p>Serena:Serena:Serena:Serena:Serena:Serena:Serena:Serena: </p>
+                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                    <small>photo</small>
+
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="d-block d-md-none col-sm-6 col-xs-12 p-2">
+                        <a href="#">
+                            <div class="card p-2">
+                                <div class="row no-gutters ">
+                                    <div class="col-4 pb-0">
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                             class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-8 pb-0">
+                                        <div class="card-body p-0 pl-1">
+                                            <p class="card-text">Serena:</p>
+                                            <p class="card-text pt-3">
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                <small class="text-muted">photo</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="d-none d-lg-block col-lg-3 p-2">
+                        <a href="#">
+                            <!--                @todo ye moshkel ke has vaghty title bishtar az ye khat mishe az card mizane birun-->
+                            <div class="card text-white">
+                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                     class="card-img mw-100 mh-100" alt="...">
+                                <div class="card-img-overlay">
+                                    <p>Serena:Serena:Serena:Serena:Serena:Serena:Serena:Serena: </p>
+                                    <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                    <small>photo</small>
+
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="d-block d-lg-none col-md-4 col-sm-6 col-xs-12 p-2">
+                        <a href="#">
+                            <div class="card p-2">
+                                <div class="row no-gutters ">
+                                    <div class="col-4 pb-0">
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                             class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-8 pb-0">
+                                        <div class="card-body p-0 pl-1">
+                                            <p class="card-text">Serena:</p>
+                                            <p class="card-text pt-3">
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                <small class="text-muted">photo</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 p-2">
+                        <a href="#">
+                            <div class="card p-2">
+                                <div class="row no-gutters ">
+                                    <div class="col-4 pb-0">
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                             class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-8 pb-0">
+                                        <div class="card-body p-0 pl-1">
+                                            <p class="card-text">Serena:</p>
+                                            <p class="card-text pt-3">
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                <small class="text-muted">photo</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 p-2">
+                        <a href="#">
+                            <div class="card p-2">
+                                <div class="row no-gutters ">
+                                    <div class="col-4 pb-0">
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                             class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-8 pb-0">
+                                        <div class="card-body p-0 pl-1">
+                                            <p class="card-text">Serena:</p>
+                                            <p class="card-text pt-3">
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                <small class="text-muted">photo</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 p-2">
+                        <a href="#">
+                            <div class="card p-2">
+                                <div class="row no-gutters ">
+                                    <div class="col-4 pb-0">
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                             class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-8 pb-0">
+                                        <div class="card-body p-0 pl-1">
+                                            <p class="card-text">Serena:</p>
+                                            <p class="card-text pt-3">
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                <small class="text-muted">photo</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 p-2">
+                        <a href="#">
+                            <div class="card p-2">
+                                <div class="row no-gutters ">
+                                    <div class="col-4 pb-0">
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                             class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-8 pb-0">
+                                        <div class="card-body p-0 pl-1">
+                                            <p class="card-text">Serena:</p>
+                                            <p class="card-text pt-3">
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                <small class="text-muted">photo</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
 
                     <div class="col-12 category">
                         <ul>
@@ -427,7 +719,8 @@
                             <li class="text-uppercase"><a href="#">relationships</a></li>
                         </ul>
                     </div>
-                    <div class="d-block col-12 col-md-6 col-lg-3 ">
+
+                    <div class="d-none d-sm-block col-md-6 col-lg-3 ">
                         <div class="card">
                             <img class="card-img"
                                  src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGthNW.img?h=194&w=300&m=6&q=60&u=t&o=t&l=f&x=624&y=436">
@@ -440,16 +733,174 @@
                             </div>
                         </div>
                     </div>
+                    <div class="d-block d-sm-none col-md-12">
+                        <a href="#">
+                            <div class="card p-2">
+                                <div class="row no-gutters ">
+                                    <div class="col-4 pb-0">
+                                        <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                             class="card-img" alt="...">
+                                    </div>
+                                    <div class="col-8 pb-0">
+                                        <div class="card-body p-0 pl-1">
+                                            <p class="card-text">Serena:</p>
+                                            <p class="card-text pt-3">
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                <small class="text-muted">photo</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
                     <div class="d-block col-12 col-md-6 col-lg-3 ">
                         <div class="row">
                             <div class="col-12">
-
+                                <a href="#">
+                                    <div class="card p-2">
+                                        <div class="row no-gutters ">
+                                            <div class="col-4 pb-0">
+                                                <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                                     class="card-img" alt="...">
+                                            </div>
+                                            <div class="col-8 pb-0">
+                                                <div class="card-body p-0 pl-1">
+                                                    <p class="card-text">Serena:</p>
+                                                    <p class="card-text pt-3">
+                                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                        <small class="text-muted">photo</small>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-12">
+                                <a href="#">
+                                    <div class="card p-2">
+                                        <div class="row no-gutters ">
+                                            <div class="col-4 pb-0">
+                                                <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                                     class="card-img" alt="...">
+                                            </div>
+                                            <div class="col-8 pb-0">
+                                                <div class="card-body p-0 pl-1">
+                                                    <p class="card-text">Serena:</p>
+                                                    <p class="card-text pt-3">
+                                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                        <small class="text-muted">photo</small>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-12">
+                                <a href="#">
+                                    <div class="card p-2">
+                                        <div class="row no-gutters ">
+                                            <div class="col-4 pb-0">
+                                                <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                                     class="card-img" alt="...">
+                                            </div>
+                                            <div class="col-8 pb-0">
+                                                <div class="card-body p-0 pl-1">
+                                                    <p class="card-text">Serena:</p>
+                                                    <p class="card-text pt-3">
+                                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                        <small class="text-muted">photo</small>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                     </div>
-                    <div class="d-none d-lg-block col-12 col-lg-3 ">
 
+                    <div class="d-none d-lg-block  col-lg-3 ">
+                        <div class="row">
+                            <div class="col-12">
+                                <a href="#">
+                                    <div class="card p-2">
+                                        <div class="row no-gutters ">
+                                            <div class="col-4 pb-0">
+                                                <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                                     class="card-img" alt="...">
+                                            </div>
+                                            <div class="col-8 pb-0">
+                                                <div class="card-body p-0 pl-1">
+                                                    <p class="card-text">Serena:</p>
+                                                    <p class="card-text pt-3">
+                                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                        <small class="text-muted">photo</small>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-12">
+                                <a href="#">
+                                    <div class="card p-2">
+                                        <div class="row no-gutters ">
+                                            <div class="col-4 pb-0">
+                                                <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                                     class="card-img" alt="...">
+                                            </div>
+                                            <div class="col-8 pb-0">
+                                                <div class="card-body p-0 pl-1">
+                                                    <p class="card-text">Serena:</p>
+                                                    <p class="card-text pt-3">
+                                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                        <small class="text-muted">photo</small>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-12">
+                                <a href="#">
+                                    <div class="card p-2">
+                                        <div class="row no-gutters ">
+                                            <div class="col-4 pb-0">
+                                                <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
+                                                <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAGDG0h.img?h=250&w=300&m=6&q=60&u=t&o=t&l=f&f=jpg&x=1364&y=424"
+                                                     class="card-img" alt="...">
+                                            </div>
+                                            <div class="col-8 pb-0">
+                                                <div class="card-body p-0 pl-1">
+                                                    <p class="card-text">Serena:</p>
+                                                    <p class="card-text pt-3">
+                                                        <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
+                                                        <small class="text-muted">photo</small>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
                     </div>
+                    <div class="d-block d-lg-none col-12">
+                    </div>
+
+
                     <div class="d-none d-lg-block col-12 col-lg-3 ">
                         <div class="card">
                             <img class="card-img"
@@ -463,6 +914,9 @@
                             </div>
                         </div>
                     </div>
+
+                    <!--                    **version2 end**-->
+
                 </div>
             </div>
         </div>
