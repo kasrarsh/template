@@ -246,13 +246,14 @@
                         </div>
                     </div>
 
+
                     <!--                start same data1-->
                     <div class="d-none d-sm-block col-lg-3 col-md-3 col-sm-6 py-3">
                         <a href="#">
                             <!--                @todo ye moshkel ke has vaghty title bishtar az ye khat mishe az card mizane birun-->
                             <div class="card text-white">
                                 <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png"
-                                     class="card-img" alt="...">
+                                     class="card-img mw-100 mh-100" alt="...">
                                 <div class="card-img-overlay">
                                     <h5>Serena:Serena:Serena:Serena:Serena:Serena:Serena:Serena: </h5>
                                     <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
@@ -324,14 +325,14 @@
                         </a>
                     </div>
                     <!--                end same data2-->
-                    <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3">
+                    <div class="d-block col-lg-3 col-md-3 col-sm-6 col-xs-12 py-3" style="height: 150px">
                         <a href="#">
-                            <div class="card p-2">
+                            <div class="card p-2 mh-100">
                                 <div class="row no-gutters ">
                                     <div class="col-4 pb-0">
                                         <!--@todo logo and picture would not be in the same line if image's heigh wasn't 100% but when it is 100% the picture would be stretch-->
                                         <img src="../../../Screenshot%20from%202019-08-06%2020-17-57.png"
-                                             class="card-img" alt="...">
+                                             class="card-img img-fluid" alt="...">
                                     </div>
                                     <div class="col-8 pb-0">
                                         <div class="card-body p-0 pl-1">
@@ -379,7 +380,8 @@
                                     </div>
                                     <div class="col-8 pb-0">
                                         <div class="card-body p-0 pl-1">
-                                            <p class="card-title">Trainee pilot lands plane after teacher blacks out</p>
+                                            <p class="card-title">Trainee pilot lands plane after teacher blacks
+                                                out </p>
                                             <p class="card-text pt-3">
                                                 <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
                                                 <small class="text-muted">photo</small>
@@ -412,6 +414,7 @@
                             </div>
                         </a>
                     </div>
+
 
                     <div class="col-12 category">
                         <ul>
@@ -424,7 +427,6 @@
                             <li class="text-uppercase"><a href="#">relationships</a></li>
                         </ul>
                     </div>
-
                     <div class="d-block col-12 col-md-6 col-lg-3 ">
                         <div class="card">
                             <img class="card-img"
@@ -462,16 +464,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-4">
-            <div class="news-format-2" style="height: 100px">
-              <img class="w-25 mh-100" src="../../../3.JPG">
-               <div class="mw-100 mh-100 d-inline">
-
-               </div>
             </div>
         </div>
     </div>

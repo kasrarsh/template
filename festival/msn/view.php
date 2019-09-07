@@ -108,7 +108,7 @@
             </ul>
         </div>
         <div class="col-12 col-md-8">
-            <div id="demo" class="carousel slide" data-ride="carousel">
+            <div id="demo" class="carousel slide" data-ride="carousel" style="color:black;">
 
                 <!-- Indicators -->
                 <ul class="carousel-indicators">
@@ -350,6 +350,7 @@
         </div>
     </div>
 </div>
+
 </body>
 </html>
 

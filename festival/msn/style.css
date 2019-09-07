@@ -1,6 +1,6 @@
-.card-img{
-    height: 100%;
-}
+/*.card-img{*/
+/*    height: 100%;*/
+/*}*/
 .
 .info{
     position: absolute;
@@ -13,7 +13,7 @@
 .card-img-overlay{
     position: absolute;
     /*top: 60%;*/
-    font-size: 1rem;
+    font-size: 0.8rem;
     display: inline-block;
 }
  .container-fluid{
@@ -21,7 +21,7 @@
  }
 .no-gutters{
     color: black;
-    font-size: 1.3rem;
+    font-size: 0.8rem;
 
 }
 .nav{
@@ -110,4 +110,7 @@
 }
 .news-format-2{
     background-color: #666666;
+}
+.card-body {
+    padding: 0.5rem;
 }
