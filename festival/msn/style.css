@@ -114,3 +114,7 @@
 .card-body {
     padding: 0.5rem;
 }
+.card-text{
+    height: 20px;
+    overflow: hidden;
+}
