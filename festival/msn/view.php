@@ -1,5 +1,6 @@
-<?php
-?>
+<!--@todo add advertisze-->
+<!--@todo made for you mesle khodesh beshe-->
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -32,7 +33,8 @@
 
 <div class="container view">
     <div class="row">
-        <div class="col-2 py-4">
+
+        <div class="col-6 col-md-4 col-lg-2 py-4">
             <div class="card border-light">
                 <img src="../../Screenshot%20from%202019-08-08%2021-56-46.png"
                      class="card-img">
@@ -41,51 +43,53 @@
                 </div>
             </div>
         </div>
-        <div class="col-2 py-4">
+        <div class="col-6 col-md-4 col-lg-2 py-4">
             <div class="card border-light">
-                <img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAGL8Wc.img?h=76&w=138&m=6&q=60&u=t&o=t&l=f&x=860&y=709"
+                <img src="../../Screenshot%20from%202019-08-08%2021-56-46.png"
                      class="card-img">
                 <div class="card-body">
                     <small class="card-title text-muted">Bahamas rescuers face uphill task</small>
                 </div>
             </div>
         </div>
-        <div class="col-2 py-4">
+        <div  class="d-none d-md-block col-md-4 col-lg-2 py-4">
             <div class="card border-light">
-                <img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAGL8Wc.img?h=76&w=138&m=6&q=60&u=t&o=t&l=f&x=860&y=709"
+                <img src="../../Screenshot%20from%202019-08-08%2021-56-46.png"
                      class="card-img">
                 <div class="card-body">
                     <small class="card-title text-muted">Bahamas rescuers face uphill task</small>
                 </div>
             </div>
         </div>
-        <div class="col-2 py-4">
+        <div class="d-none d-lg-block col-lg-2 py-4">
             <div class="card border-light">
-                <img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAGL8Wc.img?h=76&w=138&m=6&q=60&u=t&o=t&l=f&x=860&y=709"
+                <img src="../../Screenshot%20from%202019-08-08%2021-56-46.png"
                      class="card-img">
                 <div class="card-body">
                     <small class="card-title text-muted">Bahamas rescuers face uphill task</small>
                 </div>
             </div>
         </div>
-        <div class="col-2 py-4">
+        <div class="d-none d-lg-block col-lg-2 py-4">
             <div class="card border-light">
-                <img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAGL8Wc.img?h=76&w=138&m=6&q=60&u=t&o=t&l=f&x=860&y=709"
+                <img src="../../Screenshot%20from%202019-08-08%2021-56-46.png"
                      class="card-img">
                 <div class="card-body">
                     <small class="card-title text-muted">Bahamas rescuers face uphill task</small>
                 </div>
             </div>
         </div>
-        <div class="col-2 py-4">
+        <div class="d-none d-lg-block col-lg-2 py-4">
             <div class="card border-light">
-                <img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAGL8Wc.img?h=76&w=138&m=6&q=60&u=t&o=t&l=f&x=860&y=709"
+                <img src="../../Screenshot%20from%202019-08-08%2021-56-46.png"
                      class="card-img">
                 <div class="card-body">
                     <small class="card-title text-muted">Bahamas rescuers face uphill task</small>
                 </div>
             </div>
         </div>
+
+
         <div class="col-12 title text-center">
             <h2>I love Woody and I believe him': Scarlett Johansson defends Allen</h2>
         </div>
@@ -234,7 +238,7 @@
     <div class="container">
         <div class="row ">
             <h3 class="col-lg-12 text-uppercase text-center py-4 title">made for you</h3>
-            <div class="col-12 col-lg-3 my-3">
+            <div class="col-6 col-sm-4 col-md-3 my-3">
                 <a href="#">
                     <div class="card">
                         <img class="card-img"
@@ -250,7 +254,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-12 col-lg-3 my-3">
+            <div class="col-6 col-sm-4 col-md-3 my-3">
                 <a href="#">
                     <div class="card">
                         <img class="card-img"
@@ -266,7 +270,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-12 col-lg-3 my-3">
+            <div class="col-6 col-sm-4 col-md-3 my-3">
                 <a href="#">
                     <div class="card">
                         <img class="card-img"
@@ -282,7 +286,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-12 col-lg-3 my-3">
+            <div class="col-6 col-sm-4 col-md-3 my-3">
                 <a href="#">
                     <div class="card">
                         <img class="card-img"
@@ -298,55 +302,6 @@
                     </div>
                 </a>
             </div>
-            <div class="col-12 col-lg-3 my-3">
-                <a href="#">
-                    <div class="card">
-                        <img class="card-img"
-                             src="https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_174%2Cw_300%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A%2F%2Fcampman.blob.core.windows.net%2Fvariations%2FJohn%2520Boogle.PNG">
-                        <div class="card-boyd p-3">
-                            <small class="text-muted tag">football</small>
-                            <h6 class="card-title">10 Of The Most Successful Investors In The World</h6>
-                            <small class="text-muted">
-                                <img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AACl4vY.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                Associated Press
-                            </small>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-12 col-lg-3 my-3">
-                <a href="#">
-                    <div class="card">
-                        <img class="card-img"
-                             src="https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_174%2Cw_300%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A%2F%2Fcampman.blob.core.windows.net%2Fvariations%2FJohn%2520Boogle.PNG">
-                        <div class="card-boyd p-3">
-                            <small class="text-muted tag">football</small>
-                            <h6 class="card-title">10 Of The Most Successful Investors In The World</h6>
-                            <small class="text-muted">
-                                <img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AACl4vY.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                Associated Press
-                            </small>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-12 col-lg-3 my-3">
-                <a href="#">
-                    <div class="card">
-                        <img class="card-img"
-                             src="https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_174%2Cw_300%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A%2F%2Fcampman.blob.core.windows.net%2Fvariations%2FJohn%2520Boogle.PNG">
-                        <div class="card-boyd p-3">
-                            <small class="text-muted tag">football</small>
-                            <h6 class="card-title">10 Of The Most Successful Investors In The World</h6>
-                            <small class="text-muted">
-                                <img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AACl4vY.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
-                                Associated Press
-                            </small>
-                        </div>
-                    </div>
-                </a>
-            </div>
-
         </div>
     </div>
 </div>
