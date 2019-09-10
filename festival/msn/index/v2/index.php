@@ -45,12 +45,14 @@
                     <div class="col-12">
                         <nav class="navbar navbar-expand-md  navbar-light border-bottom border-dark p-0">
                             <a class="navbar-brand nav-link text text-primary pr-2" href="#">msn</a>
-                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#appNav" aria-controls="appNav" aria-expanded="false" aria-label="Toggle navigation">
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#appNav"
+                                    aria-controls="appNav" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="navbar-toggler-icon"></span>
                             </button>
                             <div class="collapse navbar-collapse justify-content-center" id="appNav">
                                 <div class="navbar-nav">
-                                    <a class="nav-item nav-link text-dark pr-5" href="#"><i class="fab fa-facebook-square"></i> Facebook</a>
+                                    <a class="nav-item nav-link text-dark pr-5" href="#"><i
+                                                class="fab fa-facebook-square"></i> Facebook</a>
                                     <a class="nav-item nav-link text-dark pr-5" href="#"><i class="fab fa-dropbox"></i>dropbox</a>
                                     <a class="nav-item nav-link text-dark pr-5" href="#"><i class="fab fa-skype"></i>skype</a>
                                     <a class="nav-item nav-link text-dark pr-5" href="#"><i class="fab fa-twitter"></i>twitter</a>
@@ -120,7 +122,7 @@
                                     </div>
                                     <div class="col-8 pl-2">
                                         <p class="card-text d-flex justify-content-start align-items-start h-50">
-                                            Serena:main working on pushing down</p>
+                                            Serena:main working on pushing</p>
 
                                         <div class="source d-flex justify-content-start align-items-end h-25">
                                             <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
@@ -266,7 +268,7 @@
                                     </div>
                                     <div class="col-8 pl-2">
                                         <p class="card-text d-flex justify-content-start align-items-start h-50">
-                                            Serena:1234</p>
+                                            Serena:main workin</p>
 
                                         <div class="source d-flex justify-content-start align-items-end h-25">
                                             <img src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BBz3ebk.img?h=16&w=16&m=6&q=60&u=t&o=t&l=f&f=png">
@@ -345,15 +347,27 @@
                     </div>
 
                     <div class="col-12 category m-2">
-                        <ul>
-                            <li class=""><h5 class="d-inline" "><a href="#">life<i class="fas fa-angle-right"></i></a> </h5></li>
-                            <li class="text-uppercase"><a href="#">entertainment</a></li>
-                            <li class="text-uppercase"><a href="#">celebs</a></li>
-                            <li class="text-uppercase"><a href="#">style</a></li>
-                            <li class="text-uppercase"><a href="#">health</a></li>
-                            <li class="text-uppercase"><a href="#">relationships</a></li>
-                        </ul>
+                        <nav class="navbar navbar-expand-md  navbar-light">
+                            <h5 class="navbar-brand" "><a href="#">life<i class="fas fa-angle-right"></i></a></h5>
+
+                            <div class="collapse navbar-collapse pt-2" id="categoryNav">
+                                <div class="navbar-nav">
+                                    <ul class="">
+                                        <li class="nav-item text-uppercase"><a href="#">entertainment</a></li>
+                                        <li class="nav-item text-uppercase"><a href="#">celebs</a></li>
+                                        <li class="nav-item text-uppercase"><a href="#">style</a></li>
+                                        <li class="nav-item text-uppercase"><a href="#">health</a></li>
+                                        <li class="nav-item text-uppercase"><a href="#">relationships</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <button class="navbar-toggler" type="button" data-toggle="collapse"
+                                    data-target="#categoryNav" aria-controls="categoryNav" aria-expanded="false"
+                                    aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                        </nav>
                     </div>
+
 
                     <div class="d-none d-sm-block col-md-6 col-lg-3  p-2">
                         <div class="card">
@@ -703,15 +717,25 @@
                     </div>
 
                     <div class="col-12 category m-2">
-                        <ul>
-                            <li class=""><h5 class="d-inline" "><a href="#">life <i
-                                            class="fas fa-angle-right"></i></a> </h5></li>
-                            <li class="text-uppercase"><a href="#">entertainment</a></li>
-                            <li class="text-uppercase"><a href="#">celebs</a></li>
-                            <li class="text-uppercase"><a href="#">style</a></li>
-                            <li class="text-uppercase"><a href="#">health</a></li>
-                            <li class="text-uppercase"><a href="#">relationships</a></li>
-                        </ul>
+                        <nav class="navbar navbar-expand-md  navbar-light">
+                            <h5 class="navbar-brand" "><a href="#">life<i class="fas fa-angle-right"></i></a></h5>
+
+                            <div class="collapse navbar-collapse pt-2" id="categoryNav">
+                                <div class="navbar-nav">
+                                    <ul class="">
+                                        <li class="nav-item text-uppercase"><a href="#">entertainment</a></li>
+                                        <li class="nav-item text-uppercase"><a href="#">celebs</a></li>
+                                        <li class="nav-item text-uppercase"><a href="#">style</a></li>
+                                        <li class="nav-item text-uppercase"><a href="#">health</a></li>
+                                        <li class="nav-item text-uppercase"><a href="#">relationships</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <button class="navbar-toggler" type="button" data-toggle="collapse"
+                                    data-target="#categoryNav" aria-controls="categoryNav" aria-expanded="false"
+                                    aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                        </nav>
                     </div>
 
                     <div class="d-none d-sm-block col-md-6 col-lg-3  p-2">

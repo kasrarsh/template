@@ -16,14 +16,7 @@
  .container-fluid{
      background-color: #f4f4f2;
  }
- .navbar{
-     background-color: #f4f4f2;
-     color: black;
- }
-.navbar-light .navbar-toggler {
-    color:black;
-    border-color: rgba(0,0,0,.1);
-}
+
 .no-gutters{
     color: black;
     font-size: 0.8rem;
@@ -33,6 +26,14 @@
     border-bottom-style: solid;
     border-bottom-color: gray;
     border-bottom-width: 1px;
+}
+.navbar{
+    background-color: #f4f4f2;
+    color: black;
+}
+.navbar-light .navbar-toggler {
+    color:black;
+    border-color: rgba(0,0,0,.1);
 }
 .nav-link{
     color:black;
