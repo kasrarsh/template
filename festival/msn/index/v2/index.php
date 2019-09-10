@@ -42,131 +42,21 @@
             <div class="container-fluid">
 
                 <div class="row py-1 my-2">
-
                     <div class="col-12">
-                        <!--                @todo bayad mesle khodesh beshe ke kar kon rush hatman-->
-                        <!--                    <div id="demo" class="carousel slide" data-ride="carousel">-->
-                        <!--                        <div class="carousel-inner">-->
-                        <!--                            <div class="carousel-item active">-->
-                        <!--                                <ul class="nav">-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">instagram</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">telegram</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold " href="#">-->
-                        <!--                                            <i class="fab fa-facebook-square"></i> facebook-->
-                        <!--                                        </a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">twitter</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">msn</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold " href="#">whatsapp</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">msn</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">bbc</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold " href="#">-->
-                        <!--                                           microsoft store-->
-                        <!--                                        </a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">OneDrive</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">office</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">skype</a>-->
-                        <!--                                    </li>-->
-                        <!--                                </ul>-->
-                        <!--                            </div>-->
-                        <!--                            <div class="carousel-item">-->
-                        <!--                                <ul class="nav">-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">skype</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">skype</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold " href="#">-->
-                        <!--                                            <i class="fab fa-facebook-square"></i> skype-->
-                        <!--                                        </a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">skype</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">msn</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold " href="#">whatsapp</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">msn</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">bbc</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold " href="#">-->
-                        <!--                                            microsoft store-->
-                        <!--                                        </a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">OneDrive</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">office</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">skype</a>-->
-                        <!--                                    </li>-->
-                        <!--                                </ul>-->
-                        <!--                            </div>-->
-                        <!--                            <div class="carousel-item">-->
-                        <!--                                <ul class="nav">-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">Facebook</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold" href="#">Facebook</a>-->
-                        <!--                                    </li>-->
-                        <!--                                    <li class="nav-item">-->
-                        <!--                                        <a class="nav-link font-weight-bold " href="#">-->
-                        <!--                                            <i class="fab fa-facebook-square"></i> facebook-->
-                        <!--                                        </a>-->
-                        <!--                                    </li>-->
-                        <!--                                </ul>-->
-                        <!--                            </div>-->
-                        <!--                        </div>-->
-                        <!--                    </div>-->
-                    </div>
-                    <div class="col-12 ">
-                        <ul class="nav">
-                            <li class="nav-item">
-                                <a class="nav-link font-weight-bold" href="#">Facebook</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link font-weight-bold" href="#">Facebook</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link font-weight-bold " href="#">
-                                    <i class="fab fa-facebook-square"></i> facebook
-                                </a>
-                            </li>
-                        </ul>
+                        <nav class="navbar navbar-expand-md  navbar-light border-bottom border-dark p-0">
+                            <a class="navbar-brand nav-link text text-primary pr-2" href="#">msn</a>
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#appNav" aria-controls="appNav" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                            <div class="collapse navbar-collapse justify-content-center" id="appNav">
+                                <div class="navbar-nav">
+                                    <a class="nav-item nav-link text-dark pr-5" href="#"><i class="fab fa-facebook-square"></i> Facebook</a>
+                                    <a class="nav-item nav-link text-dark pr-5" href="#"><i class="fab fa-dropbox"></i>dropbox</a>
+                                    <a class="nav-item nav-link text-dark pr-5" href="#"><i class="fab fa-skype"></i>skype</a>
+                                    <a class="nav-item nav-link text-dark pr-5" href="#"><i class="fab fa-twitter"></i>twitter</a>
+                                </div>
+                            </div>
+                        </nav>
                     </div>
                     <div class="col-12 ">
                         <div class="row nav2 mt-3 text-center">
@@ -456,8 +346,7 @@
 
                     <div class="col-12 category m-2">
                         <ul>
-                            <li class=""><h5 class="d-inline" "><a href="#">life <i
-                                            class="fas fa-angle-right"></i></a> </h5></li>
+                            <li class=""><h5 class="d-inline" "><a href="#">life<i class="fas fa-angle-right"></i></a> </h5></li>
                             <li class="text-uppercase"><a href="#">entertainment</a></li>
                             <li class="text-uppercase"><a href="#">celebs</a></li>
                             <li class="text-uppercase"><a href="#">style</a></li>
